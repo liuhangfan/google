@@ -42,8 +42,8 @@
 
 
 ### 优质刷题资源
-[OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点](https://oi-wiki.org/)
-[A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
+- [OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点](https://oi-wiki.org/)
+- [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 
 ### 优质小伙伴
 下面是我们群里的优质小伙伴群昵称：[昵称] - [当前Job Title] - [LeetCode已刷题数量]
