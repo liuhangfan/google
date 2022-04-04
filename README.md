@@ -45,22 +45,5 @@
 - [OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点](https://oi-wiki.org/)
 - [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 
-### 优质小伙伴
-下面是我们群里的优质小伙伴群昵称：[昵称] - [当前Job Title] - [LeetCode已刷题数量]
-
-```
-*- sde，jr-600
-*-se-500
-*- SDE - 2000
-*- Software Engineer - 300
-*- Frontend - 445
-*- Frontend - 300
-*-software engineer 600
-*-SDE-1000
-*-algorithm engineer-300
-*-rsde-966
-*-software engineer-657
-```
-
 ### 谷歌面试群
-已经有美国，欧洲和上海的谷歌工程师在群里，欢迎加我微信：love9871112，加微信请备注：谷歌面试
+已经有一些谷歌工程师和很多刷题小伙伴在群里，欢迎加我微信：love9871112，加微信请备注：谷歌面试
