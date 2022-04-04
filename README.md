@@ -45,5 +45,8 @@
 - [OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点](https://oi-wiki.org/)
 - [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 
+### 谷歌面试每日一题
+- [https://github.com/tenvgo/google-interview](https://github.com/tenvgo/google-interview)
+
 ### 谷歌面试群
 已经有一些谷歌工程师和很多刷题小伙伴在群里，欢迎加我微信：love9871112，加微信请备注：谷歌面试
