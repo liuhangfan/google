@@ -1,5 +1,8 @@
-# google
+# Daily Challenge For Google Intervie (Leetcode)
+
 😎 Awesome lists about all kinds of Google Interview topics. 谷歌面试每日一题（Leetcode）
+
+You can add my wechat(love9871112) to join our wechat group or reach to my email(shaquilleyoung3@gmail.com) to join our email thread.
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
