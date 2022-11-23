@@ -1,7 +1,5 @@
 # google
-😎 Awesome lists about all kinds of 谷歌面试 topics. 
-
-<!-- toc -->
+😎 Awesome lists about all kinds of Google Interview topics. 谷歌面试每日一题（Leetcode）
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
