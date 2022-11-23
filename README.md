@@ -1,9 +1,74 @@
-# Daily Challenge For Google Intervie (Leetcode) 
+# Google
 
-😎 Awesome lists about all kinds of Google Interview topics. You can add my wechat(love9871112) to join our wechat group or reach to my email(shaquilleyoung3@gmail.com) to join our email thread. (谷歌面试每日一题)
+😎 Awesome lists about all kinds of Google Interview topics. You can add my wechat(love9871112) to join our wechat group or reach to my email(shaquilleyoung3@gmail.com) to join our email thread. 
 
 - [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
+
+### Daily Challenge For Google Interview (Leetcode) 
+
+- [Day 1](#day-1)
+- [Day 2](#day-2)
+- [Day 3](#day-3)
+- [Day 4](#day-4)
+- [Day 5](#day-5)
+- [Day 6](#day-6)
+
+### 谷歌面试每日一题
+
+#### Day 1
+
+> Question (mentioned in an interview on March 30, 2022) https://leetcode.com/problems/h-index/
+> 
+> Reference https://leetcode.com/discuss/interview-question/1892555/google-phone-interview
+> 
+> This solution and explanation is great https://www.youtube.com/watch?v=lDY3AnVOYmA&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=1
+
+#### Day 2
+
+> Question (mentioned in an interview on March 30, 2022) https://leetcode.com/problems/h-index-ii/
+>
+> Reference https://leetcode.com/discuss/interview-question/1892555/google-phone-interview
+> 
+> Solution by the same author as previous one is still great https://www.youtube.com/watch?v=0FPdOoht5Rc&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=2
+
+#### Day 3
+
+> Question (mentioned in an interview on August 4, 2021) https://leetcode.com/problems/valid-square/
+> 
+> Reference https://leetcode.com/discuss/interview-question/1382025/Google-phone-screen/1036311
+> 
+> Youtube solution https://www.youtube.com/watch?v=B51j1jjTVWk&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=3
+
+#### Day 4
+
+> Question (mentioned in an interview on August 4, 2021):
+https://leetcode.com/problems/detect-squares/
+> 
+> Reference:
+https://leetcode.com/discuss/interview-question/1382025/Google-phone-screen/1036311
+> 
+> Youtube solution https://www.youtube.com/watch?v=bahebearrDc&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=4
+
+#### Day 5
+
+> Question (mentioned in an interview on July 17, 2019):
+https://leetcode.com/problems/decode-string/
+> 
+> Reference:
+https://leetcode.com/discuss/interview-question/325845/google-onsite-interview-decode-string
+> 
+> Youtube solution: https://www.youtube.com/watch?v=qB0zZpBJlh8&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=5
+
+#### Day 6
+> Question (mentioned in an interview on October 4, 2021):
+https://leetcode.com/problems/text-justification/
+> 
+> Reference:
+https://leetcode.com/discuss/interview-question/1501992/google-phone-interview
+> 
+> Solution: https://www.youtube.com/watch?v=smaxL16J504&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=6
+
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
@@ -43,14 +108,3 @@
 #### [從 Apple 到 Google，Recruiter WeiLin 解析 Google 面試技巧與科技人資職涯！](https://www.cakeresume.com/resources/podcast-interview-google-shanghai-recruiter-weilin-lin?locale=zh-TW)
 > 精彩摘要
 >> 她也建議求職者們，就算不具備職缺要求的經驗，也可以深挖自己是否有「transferable skills」（可轉移技能），或是可以印證自己具備潛力的相關經驗，來說服對方「你就是這個職位的不二人選」。
-
-
-### 优质刷题资源
-- [OI Wiki 致力于成为一个免费开放且持续更新的 编程竞赛（competitive programming） 知识整合站点](https://oi-wiki.org/)
-- [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
-
-### 谷歌面试每日一题
-- [https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
-
-### 谷歌面试群
-已经有一些谷歌工程师和很多刷题小伙伴在群里，欢迎加我微信：love9871112，加微信请备注：谷歌面试
