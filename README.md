@@ -13,6 +13,7 @@
 - [Day 4](#day-4)
 - [Day 5](#day-5)
 - [Day 6](#day-6)
+- [Day 7](#day-7)
 
 ### 谷歌面试每日一题
 
@@ -69,6 +70,16 @@ https://leetcode.com/discuss/interview-question/1501992/google-phone-interview
 > 
 > Solution: https://www.youtube.com/watch?v=smaxL16J504&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=6
 
+
+#### Day 7
+
+> Question (mentioned in an interview on January 16, 2020):
+https://leetcode.com/problems/battleships-in-a-board/
+>
+> Reference (Including great interview experience sharing)
+https://leetcode.com/discuss/interview-experience/479413/NDA-Google-Facebook-Amazon-or-L5-E5-L5-or-London-or-Dec-2019-Offer
+>
+> Youtube solution https://www.youtube.com/watch?v=wBG6078g1gE&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=7
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
