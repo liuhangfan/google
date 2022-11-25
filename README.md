@@ -14,6 +14,7 @@
 - [Day 5](#day-5)
 - [Day 6](#day-6)
 - [Day 7](#day-7)
+- [Day 8](#day-8)
 
 ### 谷歌面试每日一题
 
@@ -80,6 +81,16 @@ https://leetcode.com/problems/battleships-in-a-board/
 https://leetcode.com/discuss/interview-experience/479413/NDA-Google-Facebook-Amazon-or-L5-E5-L5-or-London-or-Dec-2019-Offer
 >
 > Youtube solution https://www.youtube.com/watch?v=wBG6078g1gE&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=7
+
+#### Day 8
+
+> Question (mentioned in an interview on April 14, 2021)
+https://leetcode.com/problems/student-attendance-record-i/
+>
+> Reference
+https://leetcode.com/discuss/interview-question/1157064/google-phone-interview-didnt-pass-student-attendance-record
+>
+> Solution https://www.youtube.com/watch?v=OIgHMvCijeo&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=8 
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
