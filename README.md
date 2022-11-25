@@ -24,7 +24,7 @@
 > 
 > Reference https://leetcode.com/discuss/interview-question/1892555/google-phone-interview
 > 
-> This solution and explanation is great https://www.youtube.com/watch?v=lDY3AnVOYmA&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=1
+> This Youtube solution and explanation is great https://www.youtube.com/watch?v=lDY3AnVOYmA&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=1
 
 #### Day 2
 
@@ -32,7 +32,7 @@
 >
 > Reference https://leetcode.com/discuss/interview-question/1892555/google-phone-interview
 > 
-> Solution by the same author as previous one is still great https://www.youtube.com/watch?v=0FPdOoht5Rc&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=2
+> Youtube Solution by the same author as previous one is still great https://www.youtube.com/watch?v=0FPdOoht5Rc&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=2
 
 #### Day 3
 
@@ -69,7 +69,7 @@ https://leetcode.com/problems/text-justification/
 > Reference:
 https://leetcode.com/discuss/interview-question/1501992/google-phone-interview
 > 
-> Solution: https://www.youtube.com/watch?v=smaxL16J504&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=6
+> Youtube Solution: https://www.youtube.com/watch?v=smaxL16J504&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=6
 
 
 #### Day 7
@@ -90,7 +90,7 @@ https://leetcode.com/problems/student-attendance-record-i/
 > Reference
 https://leetcode.com/discuss/interview-question/1157064/google-phone-interview-didnt-pass-student-attendance-record
 >
-> Solution https://www.youtube.com/watch?v=OIgHMvCijeo&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=8 
+> Youtube Solution https://www.youtube.com/watch?v=OIgHMvCijeo&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=8 
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
