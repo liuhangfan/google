@@ -15,7 +15,7 @@
 - [Day 6](#day-6)
 - [Day 7](#day-7)
 - [Day 8](#day-8)
-- [Day 8 system design)(#day-8-system-design)
+- [Day 8 system design](#day-8-system-design)
 
 ### 谷歌面试每日一题
 
