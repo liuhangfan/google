@@ -5,7 +5,7 @@
 - [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
 
-### Daily Challenge For Google Interview (Leetcode) 
+### Daily Challenge For Google Interview (Leetcode & System Design) 
 
 - [Day 1](#day-1)
 - [Day 2](#day-2)
@@ -15,6 +15,7 @@
 - [Day 6](#day-6)
 - [Day 7](#day-7)
 - [Day 8](#day-8)
+- [Day 8 system design)(#day-8-system-design)
 
 ### 谷歌面试每日一题
 
@@ -91,6 +92,12 @@ https://leetcode.com/problems/student-attendance-record-i/
 https://leetcode.com/discuss/interview-question/1157064/google-phone-interview-didnt-pass-student-attendance-record
 >
 > Youtube Solution https://www.youtube.com/watch?v=OIgHMvCijeo&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=8 
+
+#### Day 8 system design 
+> Google system design interview:
+design a code deployment system
+> 
+> Youtube solution https://www.youtube.com/watch?v=q0KGYwNbf-0&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=9
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
