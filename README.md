@@ -16,6 +16,8 @@
 - [Day 7](#day-7)
 - [Day 8](#day-8)
 - [Day 8 system design](#day-8-system-design)
+- [Day 8 system design 2](#day-8-system-design-2)
+- [Day 9](#day-9)
 
 ### 谷歌面试每日一题
 
@@ -98,6 +100,23 @@ https://leetcode.com/discuss/interview-question/1157064/google-phone-interview-d
 design a code deployment system
 > 
 > Youtube solution https://www.youtube.com/watch?v=q0KGYwNbf-0&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=9
+
+#### Day 8 system design 2
+
+> Question:
+design Tiktok
+> 
+> Youtube solution https://www.youtube.com/watch?v=Z-0g_aJL5Fw&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=10
+
+#### Day 9
+
+> Question (mentioned in an interview on April 14, 2021)
+https://leetcode.com/problems/student-attendance-record-ii/
+> 
+> Reference
+https://leetcode.com/discuss/interview-question/1157064/google-phone-interview-didnt-pass-student-attendance-record
+>
+> Youtube solution https://www.youtube.com/watch?v=D5g-KZWbh6Y&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=11
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
