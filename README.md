@@ -18,6 +18,7 @@
 - [Day 8 system design](#day-8-system-design)
 - [Day 8 system design 2](#day-8-system-design-2)
 - [Day 9](#day-9)
+- [Day 10](#day-10)
 
 ### 谷歌面试每日一题
 
@@ -117,6 +118,16 @@ https://leetcode.com/problems/student-attendance-record-ii/
 https://leetcode.com/discuss/interview-question/1157064/google-phone-interview-didnt-pass-student-attendance-record
 >
 > Youtube solution https://www.youtube.com/watch?v=D5g-KZWbh6Y&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=11
+
+#### Day 10
+
+> Question (mentioned in an interview on July 5, 2019)
+https://leetcode.com/problems/evaluate-reverse-polish-notation/
+> 
+> Reference
+https://leetcode.com/discuss/interview-question/272600/google-phone-interview-seti
+> 
+> Youtube solution https://www.youtube.com/watch?v=iu0082c4HDE&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=12
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
