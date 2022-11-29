@@ -19,6 +19,8 @@
 - [Day 8 system design 2](#day-8-system-design-2)
 - [Day 9](#day-9)
 - [Day 10](#day-10)
+- [Day 11](#day-11)
+- [Day 12](#day-12)
 
 ### 谷歌面试每日一题
 
@@ -128,6 +130,26 @@ https://leetcode.com/problems/evaluate-reverse-polish-notation/
 https://leetcode.com/discuss/interview-question/272600/google-phone-interview-seti
 > 
 > Youtube solution https://www.youtube.com/watch?v=iu0082c4HDE&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=12
+
+#### Day 11
+
+> Question (mentioned in an interview on September 22, 2021)
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+> 
+> Reference
+https://leetcode.com/discuss/interview-question/1478198/google-phone-interview/1092911
+> 
+> Youtube solution https://www.youtube.com/watch?v=wCc_nd-GiEc&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=13
+
+#### Day 12
+
+> Question (mentioned in an interview on May 20, 2022)
+https://leetcode.com/problems/minimum-time-difference/
+> 
+> Reference
+https://leetcode.com/discuss/interview-question/2056245/google-screening-minimum-time-difference
+> 
+> Youtube solution https://www.youtube.com/watch?v=c5ecNf7JM1Q&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=14
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
