@@ -5,7 +5,7 @@
 - [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
 
-### Daily Challenge For Google Interview (Leetcode & System Design) 
+### Daily Challenge For Google (Leetcode & System Design & Behavioral Interview) 
 
 - [Day 1](#day-1)
 - [Day 2](#day-2)
@@ -21,6 +21,8 @@
 - [Day 10](#day-10)
 - [Day 11](#day-11)
 - [Day 12](#day-12)
+- [Day 13](#day-13)
+- [Day 13 behavioral interview](#day-13-behavioral-interview)
 
 ### 谷歌面试每日一题
 
@@ -99,7 +101,7 @@ https://leetcode.com/discuss/interview-question/1157064/google-phone-interview-d
 > Youtube Solution https://www.youtube.com/watch?v=OIgHMvCijeo&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=8 
 
 #### Day 8 system design 
-> Google system design interview:
+> Question:
 design a code deployment system
 > 
 > Youtube solution https://www.youtube.com/watch?v=q0KGYwNbf-0&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=9
@@ -150,6 +152,20 @@ https://leetcode.com/problems/minimum-time-difference/
 https://leetcode.com/discuss/interview-question/2056245/google-screening-minimum-time-difference
 > 
 > Youtube solution https://www.youtube.com/watch?v=c5ecNf7JM1Q&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=14
+
+#### Day 13
+
+> Question (mentioned in an interview on May 20, 2022)
+https://leetcode.com/problems/race-car/
+>
+> Reference
+https://leetcode.com/problems/race-car/solutions/2606304/How-often-is-this-really-asked/comments/1635843/
+> 
+> Youtube solution https://www.youtube.com/watch?v=DBJPWJr5zZ4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=15
+
+#### Day 13 behavioral interview
+
+> Youtube mock interview https://www.youtube.com/watch?v=GxCD7Q_qDpU&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=16
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
