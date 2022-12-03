@@ -23,6 +23,10 @@
 - [Day 12](#day-12)
 - [Day 13](#day-13)
 - [Day 13 behavioral interview](#day-13-behavioral-interview)
+- [Day 14](#day-14)
+- [Day 14 coding mock interview](#day-14-coding-mock-interview)
+- [Day 15](#day-15)
+- [Day 16](#day-16)
 
 ### 谷歌面试每日一题
 
@@ -166,6 +170,40 @@ https://leetcode.com/problems/race-car/solutions/2606304/How-often-is-this-reall
 #### Day 13 behavioral interview
 
 > Youtube mock interview https://www.youtube.com/watch?v=GxCD7Q_qDpU&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=16
+
+#### Day 14
+
+> Question (mentioned in an interview on April 10, 2022 )
+https://leetcode.com/problems/merge-intervals/
+> 
+> Reference
+https://leetcode.com/discuss/interview-question/1930524/google-onsite-usa
+> 
+> Youtube solution https://www.youtube.com/watch?v=44H3cEC2fFM&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=17
+
+#### Day 14 coding mock interview
+
+> Youtube mock interview https://www.youtube.com/watch?v=rw4s4M3hFfs&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=18
+
+#### Day 15
+
+> Question (mentioned in an interview on January 22, 2022)
+https://leetcode.com/problems/range-module/
+> 
+> Reference
+https://leetcode.com/discuss/interview-question/1708199/Google-or-Phone-interview-or-waiting/1231392
+>
+> Youtube solution https://www.youtube.com/watch?v=OLoBBLvU2KY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=19
+
+#### Day 16
+
+> Question (mentioned in an interview on August 8, 2019)
+https://leetcode.com/problems/my-calendar-i/
+> 
+> Reference
+https://leetcode.com/discuss/interview-question/230437/google-phone-screen-book-events
+>
+> Youtube solution https://www.youtube.com/watch?v=6c9bKwxzZiQ&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=20
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
