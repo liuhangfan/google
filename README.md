@@ -27,6 +27,15 @@
 - [Day 14 coding mock interview](#day-14-coding-mock-interview)
 - [Day 15](#day-15)
 - [Day 16](#day-16)
+- [Day 17](#day-17)
+- [Day 17 how](#day-17-how)
+- [Day 18](#day-18)
+- [Day 19](#day-19)
+- [Day 20](#day-20)
+- [Day 21](#day-21)
+- [Day 22](#day-22)
+- [Day 23](#day-23)
+- [Day 24](#day-24)
 
 ### 谷歌面试每日一题
 
@@ -204,6 +213,90 @@ https://leetcode.com/problems/my-calendar-i/
 https://leetcode.com/discuss/interview-question/230437/google-phone-screen-book-events
 >
 > Youtube solution https://www.youtube.com/watch?v=6c9bKwxzZiQ&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=20
+
+#### Day 17
+
+> Question (mentioned in an interview on August 8, 2019)
+https://leetcode.com/problems/my-calendar-ii/
+>
+> Reference
+https://leetcode.com/discuss/interview-question/230437/google-phone-screen-book-events
+>
+> Youtube solution https://www.youtube.com/watch?v=_7B_HzJUE6E&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=21
+
+#### Day 17 How
+
+> Youtube knowledge sharing https://www.youtube.com/watch?v=T53EyLPj4UM&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=22
+
+#### Day 18
+
+> Question (mentioned in an interview on August 8, 2019)
+https://leetcode.com/problems/my-calendar-iii/
+> 
+> Reference
+https://leetcode.com/discuss/interview-question/230437/google-phone-screen-book-events
+>
+> Youtube solution https://www.youtube.com/watch?v=yggP7i6eSBc&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=23
+
+#### Day 19
+
+> Question (mentioned in an interview on March 31, 2020)
+https://leetcode.com/problems/guess-the-word/
+>
+> Reference
+https://leetcode.com/discuss/interview-question/556764/google-onsite-jotto-solver
+>
+> Youtube solution https://www.youtube.com/watch?v=COnrhAabeos&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=24
+
+#### Day 20
+
+> Question (mentioned in an interview on June 9, 2022)
+https://leetcode.com/problems/swim-in-rising-water/
+>
+> Reference
+https://leetcode.com/discuss/interview-question/2129259/google-screening
+>
+> Youtube solution https://www.youtube.com/watch?v=amvrKlMLuGY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=25
+
+#### Day 21
+
+> Question (mentioned in an interview on May 14, 2022)
+https://leetcode.com/problems/similar-string-groups/
+>
+> Reference
+https://leetcode.com/discuss/interview-question/2036144/google-onsite-question
+>
+> Youtube solution https://www.youtube.com/watch?v=GtH4fz18wWk&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=26
+
+#### Day 22
+
+> Question (mentioned in an interview on June 2, 2022)
+https://leetcode.com/problems/swap-adjacent-in-lr-string/
+>
+> Reference
+https://leetcode.com/discuss/interview-question/2099383/Google-L4-US-or-Phone-or-Swap-LR-Problem/1416927
+>
+> Youtube solution https://www.youtube.com/watch?v=esEFw6gm7lo&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=27
+
+#### Day 23
+
+> Question (mentioned in an interview on September 1, 2021)
+https://leetcode.com/problems/find-and-replace-in-string/
+>
+> Reference
+https://leetcode.com/discuss/interview-question/1437550/Google-onsite-L5
+>
+> Youtube solution https://www.youtube.com/watch?v=h2Fpz1x4b_8&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=28
+
+#### Day 24
+
+> Question (mentioned in an interview on May 11, 2022)
+https://leetcode.com/problems/longest-word-in-dictionary/
+>
+> Reference
+https://leetcode.com/discuss/interview-question/2002748/google-onsite-coding-interview-question
+>
+> Youtube solution https://www.youtube.com/watch?v=waIgDZZp9Wc&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=29
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
