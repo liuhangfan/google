@@ -1,6 +1,6 @@
 # Google
 
-😎 Daily Challenge For Google  (Leetcode & System Design & Behavioral Interview & Coding Mock Interview & How)
+😎 Daily Challenge For Google  (Leetcode & System Design & Behavioral Interview & Coding Mock Interview & How to crack the Google Coding Interview)
 
 - [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
