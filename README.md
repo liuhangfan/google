@@ -21,7 +21,7 @@ Within one year, you should be able to systematically go through all the difficu
 
 | Day  | Question | Type | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top asked questions](https://leetcode.com/company/google/) | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) |        
+| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top asked questions](https://leetcode.com/company/google/) | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py) |        
 
 #### List in the first month
 - [Day 1](#day-1)
