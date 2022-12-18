@@ -7,7 +7,15 @@
 
 ### Daily Challenge For Google  (Leetcode & System Design & Behavioral Interview & Coding Mock Interview & How)
 
-Two questions a day, including one of Google's Top asked questions (You should be able to go through all the frequently occurring Google interview questions within a year) and one of algorithm walkthrough questions (Within one year, you should be able to systematically go through all the difficulty levels easy, medium and hard of all important question types)
+Two questions a day
+
+1, one from Google's Top asked questions 
+
+You should be able to go through all the frequently occurring Google interview questions within a year
+
+2, one from algorithm walkthrough questions
+
+Within one year, you should be able to systematically go through all the difficulty levels easy, medium and hard of all important question types
 
 
 - [Day 1](#day-1)
