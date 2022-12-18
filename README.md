@@ -1,6 +1,6 @@
 # Google
 
-😎 Awesome lists about all kinds of Google Interview topics. You can add my wechat(love9871112) to join our wechat group or reach to my email(shaquilleyoung3@gmail.com) to join our email thread. 
+😎 Awesome lists about all kinds of Google Interview topics. 
 
 - [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
@@ -69,4 +69,6 @@ Within one year, you should be able to systematically go through all the difficu
 ### Daily Challenge Group
 
 <img src="https://user-images.githubusercontent.com/3125136/208291139-c928ffed-f8a7-4d36-924c-ac4919069a4c.png" width="300" />
+
+You can also add my wechat(love9871112) to join our wechat group or reach to my email(shaquilleyoung3@gmail.com) to join our email thread. 
 
