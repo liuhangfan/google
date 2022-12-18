@@ -1,6 +1,6 @@
 # Google
 
-😎 Awesome lists about all kinds of Google Interview topics. 
+😎 All kinds of Google Interview topics. 
 
 - [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
