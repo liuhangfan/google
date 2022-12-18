@@ -19,9 +19,10 @@ Within one year, you should be able to systematically go through all the difficu
 
 #### List from the second month onwards
 
-| Day  | Question | Type | Difficulity | Video solution                                                    | Code                                                        |
-| ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py) |        
+| Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
+| ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py)|
+| 30   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)    | [Algorithm Walkthrough](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=35) | [python](python/contains-duplicate.py) |
 
 #### [List in the first month](List-in-the-first-month.md)
 
