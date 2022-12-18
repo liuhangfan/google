@@ -9,7 +9,7 @@
 
 Two questions a day
 
-1, one from Google's Top asked questions 
+1, one from Google's Top interview questions 
 
 You should be able to go through all the frequently occurring Google interview questions within a year
 
@@ -21,7 +21,7 @@ Within one year, you should be able to systematically go through all the difficu
 
 | Day  | Question | Type | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top asked questions](https://leetcode.com/company/google/) | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py) |        
+| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py) |        
 
 #### [List in the first month](List-in-the-first-month.md)
 
