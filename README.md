@@ -1,11 +1,9 @@
 # Google
 
-😎 All kinds of Google Interview topics. 
+😎 Daily Challenge For Google  (Leetcode & System Design & Behavioral Interview & Coding Mock Interview & How)
 
 - [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
-
-### Daily Challenge For Google  (Leetcode & System Design & Behavioral Interview & Coding Mock Interview & How)
 
 Two questions a day
 
