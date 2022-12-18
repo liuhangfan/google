@@ -5,7 +5,10 @@
 - [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
 
-### Daily Challenge For Google (Leetcode & System Design & Behavioral Interview) 
+### Daily Challenge For Google  (Leetcode & System Design & Behavioral Interview & Coding Mock Interview & How)
+
+Two questions a day, including one of Google's Top asked questions (You should be able to go through all the frequently occurring Google interview questions within a year) and one of algorithm walkthrough questions (Within one year, you should be able to systematically go through all the difficulty levels easy, medium and hard of all important question types)
+
 
 - [Day 1](#day-1)
 - [Day 2](#day-2)
