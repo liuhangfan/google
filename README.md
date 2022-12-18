@@ -65,4 +65,4 @@ Within one year, you should be able to systematically go through all the difficu
 >> 她也建議求職者們，就算不具備職缺要求的經驗，也可以深挖自己是否有「transferable skills」（可轉移技能），或是可以印證自己具備潛力的相關經驗，來說服對方「你就是這個職位的不二人選」。
 
 
-![1671356008721](https://user-images.githubusercontent.com/3125136/208291057-9e8d8ab7-469a-4c68-9652-edd4b5f10a18.png)
+![image](https://user-images.githubusercontent.com/3125136/208291139-c928ffed-f8a7-4d36-924c-ac4919069a4c.png)
