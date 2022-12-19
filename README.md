@@ -20,9 +20,6 @@
 
 😎 All kinds of Google Interview topics, Leetcode & System Design & Behavioral Interview & Coding Mock Interview & How to crack the Google Coding Interview
 
-- [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
-- [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
-
 Two questions a day
 
 1, one from [Google's Top interview questions](https://leetcode.com/company/google/)
@@ -32,6 +29,9 @@ You should be able to go through all the frequently occurring Google interview q
 2, one from [Algorithm Walkthrough](https://neetcode.io/practice) questions
 
 Within one year, you should be able to systematically go through all the difficulty levels easy, medium and hard of all important question types
+
+- [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
+- [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
