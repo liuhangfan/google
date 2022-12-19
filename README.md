@@ -5,6 +5,7 @@
 | Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 31   | [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) , [non-official link](https://algo.monster/liteproblems/2158)    | [Google's Top interview questions](https://leetcode.com/company/google/) |  | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=cHYjuMPTHt4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=36) | [python](python/2158.amount-of-new-area-painted-each-day.py) |
+| 31   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)    | [Algorithm Walkthrough](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=37) | [python](python/242.valid-anagram.py) |
 
 
 #### List from the second month onwards
