@@ -1,6 +1,17 @@
-# Google
+# Daily Challenge For Google
 
-😎 Daily Challenge For Google  (Leetcode & System Design & Behavioral Interview & Coding Mock Interview & How to crack the Google Coding Interview)
+#### List from the second month onwards
+
+| Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
+| ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py)|
+| 30   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)    | [Algorithm Walkthrough](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=35) | [python](python/contains-duplicate.py) |
+
+#### [List in the first month](List-in-the-first-month.md)
+
+#### About Daily Challenge For Google
+
+😎 All kinds of Google Interview topics, Leetcode & System Design & Behavioral Interview & Coding Mock Interview & How to crack the Google Coding Interview
 
 - [Leetcode discuss](https://leetcode.com/discuss/interview-question/2806472/Daily-Challenge)
 - [Youtube playlist](https://www.youtube.com/playlist?list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa)
@@ -14,15 +25,6 @@ You should be able to go through all the frequently occurring Google interview q
 2, one from algorithm walkthrough questions
 
 Within one year, you should be able to systematically go through all the difficulty levels easy, medium and hard of all important question types
-
-#### List from the second month onwards
-
-| Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
-| ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py)|
-| 30   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)    | [Algorithm Walkthrough](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=35) | [python](python/contains-duplicate.py) |
-
-#### [List in the first month](List-in-the-first-month.md)
 
 ### 谷歌面试经验
 1. [谷歌上海面试经验](https://zhuanlan.zhihu.com/p/118283800)
