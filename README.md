@@ -1,11 +1,18 @@
 # Daily Challenge For Google
 
+#### Latest
+
+| Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
+| ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 31   | [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) , [non-official link](https://algo.monster/liteproblems/2158)    | Algorithm Walkthrough |  | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=cHYjuMPTHt4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=36) | [python](python/amount-of-new-area-painted-each-day.py) |
+
+
 #### List from the second month onwards
 
 | Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py)|
-| 30   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)    | [Algorithm Walkthrough](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=35) | [python](python/contains-duplicate.py) |
+| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | Google's Top interview questions | Breadth-First Search | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py)|
+| 30   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)    | Google's Top interview questions | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=35) | [python](python/contains-duplicate.py) |
 
 #### [List in the first month](List-in-the-first-month.md)
 
@@ -18,11 +25,11 @@
 
 Two questions a day
 
-1, one from Google's Top interview questions 
+1, one from [Google's Top interview questions](https://leetcode.com/company/google/)
 
 You should be able to go through all the frequently occurring Google interview questions within a year
 
-2, one from algorithm walkthrough questions
+2, one from [Algorithm Walkthrough](https://neetcode.io/practice) questions
 
 Within one year, you should be able to systematically go through all the difficulty levels easy, medium and hard of all important question types
 
