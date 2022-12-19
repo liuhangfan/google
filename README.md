@@ -4,15 +4,15 @@
 
 | Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 31   | [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) , [non-official link](https://algo.monster/liteproblems/2158)    | [Google's Top interview questions](https://leetcode.com/company/google/) |  | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=cHYjuMPTHt4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=36) | [python](python/amount-of-new-area-painted-each-day.py) |
+| 31   | [2158. Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/) , [non-official link](https://algo.monster/liteproblems/2158)    | [Google's Top interview questions](https://leetcode.com/company/google/) |  | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=cHYjuMPTHt4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=36) | [python](python/2158.amount-of-new-area-painted-each-day.py) |
 
 
 #### List from the second month onwards
 
 | Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/shortest-path-in-a-grid-with-obstacles-elimination.py)|
-| 30   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)    | [Algorithm Walkthrough](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=35) | [python](python/contains-duplicate.py) |
+| 29   | [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/?company_slug=google)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [GOOGLE'S #1 INTERVIEW QUESTION](https://www.youtube.com/watch?v=VPleGcc1nZY&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=34) | [python](python/1293.shortest-path-in-a-grid-with-obstacles-elimination.py)|
+| 30   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)    | [Algorithm Walkthrough](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=3OamzN90kPg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=35) | [python](python/217.contains-duplicate.py) |
 
 #### [List in the first month](List-in-the-first-month.md)
 
