@@ -5,6 +5,7 @@
 | Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 32   | [843. Guess the Word](https://leetcode.com/problems/guess-the-word/)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Arrays | Hard | [Video](https://www.youtube.com/watch?v=COnrhAabeos&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=24) | [cpp](cpp/843.guess-the-word.cpp) |
+| 32   | [1. Two Sum](https://leetcode.com/problems/two-sum/)    | [Algorithm Walkthrough](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=32) | [python](python/python/1.two-sum.py) |
 
 
 #### List from the second month onwards
