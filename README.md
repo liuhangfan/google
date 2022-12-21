@@ -6,6 +6,7 @@
 | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 33   | [818. Race Car](https://leetcode.com/problems/race-car/)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [Video](https://www.youtube.com/watch?v=DBJPWJr5zZ4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=16) | [python](python/818.race-car.py) |
 | 33   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)    | [Algorithm walkthrough (questions)](https://neetcode.io/practice) | Two Pointers | Easy | [Video](https://www.youtube.com/watch?v=jJXJ16kPFWg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=38) | [python](python/242.valid-anagram.py) |
+| 33   | Top 6 Coding Interview Concepts (Data Structures & Algorithms)    | Algorithm walkthrough (basics) |  |  | [Video](https://www.youtube.com/watch?v=ft0owvS5tQA&list=PLhE-usdjb8DavyqEwsAr9JHFptQvt6Y1H&index=1) |  |
 
 #### List from the second month onwards
 
