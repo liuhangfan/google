@@ -4,7 +4,7 @@
 
 | Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 32   | [818. Race Car](https://leetcode.com/problems/race-car/)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [Video](https://www.youtube.com/watch?v=DBJPWJr5zZ4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=16) | [python](python/818.race-car.py) |
+| 33   | [818. Race Car](https://leetcode.com/problems/race-car/)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [Video](https://www.youtube.com/watch?v=DBJPWJr5zZ4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=16) | [python](python/818.race-car.py) |
 
 #### List from the second month onwards
 
