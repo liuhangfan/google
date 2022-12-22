@@ -5,6 +5,7 @@
 | Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 34   | [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) , [non-official link](https://algo.monster/liteproblems/366)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Depth-First Search | Medium | [Video](https://www.youtube.com/watch?v=1T7vwABgiys&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=40) | [python](python/366.find-leaves-of-binary-tree.py) |
+| 34   | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)    | [Algorithm walkthrough (questions)](https://neetcode.io/practice) | Two Pointers | Easy | [Video](https://www.youtube.com/watch?v=JrxRYBwG6EI&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=40) | [python](python/680.valid-palindrome-ii.py) |
 
 #### List from the second month onwards
 
