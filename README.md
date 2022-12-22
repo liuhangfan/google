@@ -4,9 +4,7 @@
 
 | Day  | Question | Type | Tag | Difficulity | Video solution                                                    | Code                                                        |
 | ---- | ---- | ---- | ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 33   | [818. Race Car](https://leetcode.com/problems/race-car/)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [Video](https://www.youtube.com/watch?v=DBJPWJr5zZ4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=16) | [python](python/818.race-car.py) |
-| 33   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)    | [Algorithm walkthrough (questions)](https://neetcode.io/practice) | Two Pointers | Easy | [Video](https://www.youtube.com/watch?v=jJXJ16kPFWg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=38) | [python](python/242.valid-anagram.py) |
-| 33   | Top 6 Coding Interview Concepts (Data Structures & Algorithms)    | Algorithm walkthrough (basics) |  |  | [Video](https://www.youtube.com/watch?v=ft0owvS5tQA&list=PLhE-usdjb8DavyqEwsAr9JHFptQvt6Y1H&index=1) |  |
+| 34   | [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) , [non-official link](https://algo.monster/liteproblems/366)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Depth-First Search | Medium | [Video](https://www.youtube.com/watch?v=1T7vwABgiys&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=40) | [python](python/366.find-leaves-of-binary-tree.py) |
 
 #### List from the second month onwards
 
@@ -18,6 +16,9 @@
 | 31   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)    | [Algorithm walkthrough (questions)](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=9UtInBqnCgA&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=37) | [python](python/242.valid-anagram.py) |
 | 32   | [843. Guess the Word](https://leetcode.com/problems/guess-the-word/)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Arrays | Hard | [Video](https://www.youtube.com/watch?v=COnrhAabeos&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=24) | [cpp](cpp/843.guess-the-word.cpp) |
 | 32   | [1. Two Sum](https://leetcode.com/problems/two-sum/)    | [Algorithm walkthrough (questions)](https://neetcode.io/practice) | Arrays & Hashing | Easy | [Video](https://www.youtube.com/watch?v=KLlXCFG5TnA&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=32) | [python](python/python/1.two-sum.py) |
+| 33   | [818. Race Car](https://leetcode.com/problems/race-car/)    | [Google's Top interview questions](https://leetcode.com/company/google/) | Breadth-First Search | Hard | [Video](https://www.youtube.com/watch?v=DBJPWJr5zZ4&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=16) | [python](python/818.race-car.py) |
+| 33   | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)    | [Algorithm walkthrough (questions)](https://neetcode.io/practice) | Two Pointers | Easy | [Video](https://www.youtube.com/watch?v=jJXJ16kPFWg&list=PLhE-usdjb8DY_UNBBOPv-IqINdPyDBeVa&index=38) | [python](python/242.valid-anagram.py) |
+| 33   | Top 6 Coding Interview Concepts (Data Structures & Algorithms)    | Algorithm walkthrough (basics) |  |  | [Video](https://www.youtube.com/watch?v=ft0owvS5tQA&list=PLhE-usdjb8DavyqEwsAr9JHFptQvt6Y1H&index=1) |  |
 
 #### [List in the first month](List-in-the-first-month.md)
 
